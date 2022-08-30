@@ -1,3 +1,5 @@
+- chore(subnet): Add new function
+- docs: create changelog
 - fix(region): correct region
 - Release Elasticsearch
 - first commit
